@@ -1,6 +1,6 @@
 # Dissertação de Mestrado - Modelos de inflação de preços e salários no Brasil
 
-### Introdução
+### Introdução 
 
 Este repositório contém o código de um dos dos modelos VEC desenvolvidos para a dissertação de mestrado em Economia na UFRJ. 
 
