@@ -6,7 +6,7 @@ Este repositório contém o código de um dos dos modelos VEC desenvolvidos para
 
 - O **objetivo** é investigar a relação entre inflação de preços e de salários no Brasil e seus determinantes.
 - Para isso, é estimada uma curva de Phillip que incorporam elementos de custo e de demanda para identificar quais exerceram maior influência sobre o IPCA no período de análise.
-- O modelo econométrico utilizado é um VEC com janela temporal de março de 2013 a janeiro de 2022
+- O modelo econométrico utilizado é um VEC (vector error-correction) com janela temporal de março de 2013 a janeiro de 2022
 
 ### Base de dados
 
